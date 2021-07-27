@@ -1,0 +1,3 @@
+.sequelizerc
+.babelrc
+/node_modules
