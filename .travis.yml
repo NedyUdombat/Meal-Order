@@ -11,10 +11,10 @@ services:
 before_script:
   - psql -c 'create database meal-order-test;'
 
-scripts: yarn test
+scripts: 
 
 script:
-  - nyc --reporter=lcov yarn test
+  - 
 
 after_script:
-  - npm run coverage
+  - 
