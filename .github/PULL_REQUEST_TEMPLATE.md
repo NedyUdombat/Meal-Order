@@ -1,13 +1,14 @@
-What does this PR do?
+## What does this PR do?
 
-Description of Task to be completed?
+## Description of Task to be completed?
 
-How should this be manually tested?
+- [ ]
 
-Any background context you want to provide?
+## How did I test this?
 
-What are the relevant pivotal tracker stories?(if applicable)
+- [ ] Ran unit tests
+- [ ] Ran the code/service locally and validated the changes
+- [ ] Other:
+- [ ] There is nothing to be tested
 
-Pivotal tracker ID
-
-Screenshots
+## URL to tests instance or Screenshots (if applicable)
